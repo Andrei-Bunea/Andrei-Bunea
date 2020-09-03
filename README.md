@@ -18,5 +18,6 @@ Right now I'm focused on launching the biggest project of my life, Contestify, w
 * Laravel (PHP Framework) : [Documentation](https://laravel.com/docs/7.x)
 * React.js (JavaScript Framework) : [Documentation](https://reactjs.org/docs/getting-started.html)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreiShadows&show_icons=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiShadows&layout=compact&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreiShadows&show_icons=true)
