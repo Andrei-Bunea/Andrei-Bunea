@@ -15,8 +15,8 @@ I make people's ideas about functional things like websites.
 Right now I'm focused on launching the biggest project of my life, Contestify, which aims to change the learning process.
 
 #### Technologies I use everyday :
-* Laravel(PHP Framework) : [Documentation](https://laravel.com/docs/7.x)
-* React.js : [Documentation](https://reactjs.org/docs/getting-started.html)
+* Laravel (PHP Framework) : [Documentation](https://laravel.com/docs/7.x)
+* React.js (JavaScript Framework) : [Documentation](https://reactjs.org/docs/getting-started.html)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreiShadows&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiShadows&layout=compact&hide_border=true)
