@@ -9,7 +9,7 @@ If you found value in something I have created, give some ♥ on [mail](mailto:a
 <a href="mailto:andreibunea@contestify.ro"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/mail.png?raw=true"></a>
 </p>
 
-### What id do ?
+### What I do ?
 
 I make people's ideas about functional things like websites. 
 Right now I'm focused on launching the biggest project of my life, Contestify, which aims to change the learning process.
