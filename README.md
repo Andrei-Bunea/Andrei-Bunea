@@ -18,8 +18,8 @@ If you are looking for a young programmer at the beginning of his career, who wi
 
 ### Contact:
 
-Location: Bucharest, Romania
-Email: buneaandrei24@gmail.com or info@andreibunea.me
-Twitter: https://twitter.com/AndreiShadows
-LinkedIn: https://www.linkedin.com/in/andrei-bunea-80160216a/
+* Location: Bucharest, Romania
+* Email: buneaandrei24@gmail.com or info@andreibunea.me
+* Twitter: https://twitter.com/AndreiShadows
+* LinkedIn: https://www.linkedin.com/in/andrei-bunea-80160216a/
 
