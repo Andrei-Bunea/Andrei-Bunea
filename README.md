@@ -1,6 +1,6 @@
 ### Hi
 
-Hi, I'm a complete stack developer who really comes up with solutions to solve real-life problems. I'm looking forward wit to starting my career but at the same time I'm guided by my desire to become an IT entrepreneur.
+Hi, I'm a full stack developer who really comes up with solutions to solve real-life problems. I'm looking forward wit to starting my career but at the same time I'm guided by my desire to become an IT entrepreneur.
 
 ### What I do ?
 
