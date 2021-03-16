@@ -1,10 +1,10 @@
 ### Greetings
 
-Hi, I'm a full stack developer who comes up with solutions to solve real-life problems. I'm looking forward with encouragement to start my career but at the same time I'm guided by my desire to become an IT entrepreneur.
+I am a full stack developer who comes up with solutions to solve real-life problems. I am looking forward with encouragement to start my career but at the same time I am guided by my desire to become an IT entrepreneur.
 
 ### What I do ?
 
-I make people's ideas unique and special websites. How? Using the technologies listed below every day.
+I turn people's ideas into unique and remarkable websites.
 
 ### Technologies:
 * Front-end: React (Javascript), Html, CSS, Bootstrap
