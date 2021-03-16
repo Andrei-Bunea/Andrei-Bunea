@@ -1,4 +1,4 @@
-### Hi
+### Greetings
 
 Hi, I'm a full stack developer who comes up with solutions to solve real-life problems. I'm looking forward with encouragement to start my career but at the same time I'm guided by my desire to become an IT entrepreneur.
 
